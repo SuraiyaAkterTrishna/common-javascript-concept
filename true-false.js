@@ -6,6 +6,7 @@ Truthy:
 4. '0', 'false'
 5. {}
 6. []
+7. ()
 
 
 Falsy:
